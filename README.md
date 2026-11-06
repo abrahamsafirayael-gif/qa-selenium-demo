@@ -1,4 +1,5 @@
 # QA Automation – Selenium + Python + Pytest
+Sobre este proyecto: lo armé como práctica de automatización con Selenium y Pytest, usando asistencia de IA como apoyo. Estoy estudiando cada parte ((fixtures, POM, esperas explícitas, CI)) y lo voy ampliando con tests propios.
 
 Framework de pruebas end-to-end sobre [Sauce Demo](https://www.saucedemo.com), una tienda online de práctica. Aplica el patrón **Page Object Model (POM)**, tests parametrizados, esperas explícitas, capturas automáticas ante fallos, reporte HTML e integración continua con GitHub Actions.
 
